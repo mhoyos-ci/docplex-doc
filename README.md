@@ -4,7 +4,7 @@ Welcome to the IBM&reg; Decision Optimization Modeling for Python.
 Licensed under the Apache License v2.0.
 
 With this library, you can quickly and easily add the power of optimization to
-your application. ou need IBM ILOG CPLEX Optimization Studio to solve the models.
+your application. You need IBM ILOG CPLEX Optimization Studio to solve the models.
 
 This library is composed of 2 modules:
 
